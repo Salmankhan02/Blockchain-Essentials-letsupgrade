@@ -1,0 +1,9 @@
+Q1. Blockchain is a technology that is derived from the mixing of two existing old technologies that is distributed database and cryptography. this technology is immutable and secure and fully trust proof that your data is secured.
+
+Q2. Blockchain is trying to remove the middle man from peer to peer for data transparency and security. and it is trying to solve the problem of data loss and security of data.
+
+Q3. Blockchain will give data security data verifiable data unchangeable and data immutability
+
+Q4. A Block Contains Previous block's hash, Data of a current block and current block's hash
+
+Q5. Because of the distributed database verifiability of blockchain is attained. everyone can verify their current hash with other users current hash this is how verifiability is achieved in blockchain
